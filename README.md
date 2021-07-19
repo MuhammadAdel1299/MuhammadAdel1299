@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MuhammadAdel1299
+- 👋 Hi, I’m Muhammad Adel
 - 👀 I’m interested in Mobile Apps Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a Flutter Developer
+- 💞️ I’m looking to improve myself in mobile app development ...
 - 📫 How to reach me muhammadadel1299@gmail.com
 
 <!---
